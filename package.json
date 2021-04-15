@@ -1,0 +1,30 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "Practicing node init with package.json testing here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bocacode/node-practice.git"
+  },
+  "keywords": [
+    "node",
+    "practice",
+    "really",
+    "hard",
+    "for",
+    "boca"
+  ],
+  "author": "Jonathan Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bocacode/node-practice/issues"
+  },
+  "homepage": "https://github.com/bocacode/node-practice#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
